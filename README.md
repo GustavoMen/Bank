@@ -1,7 +1,7 @@
 <h1 align="center">Bank Account</h1>
 
 
-<h2>About</h2>
+<h1 align="center">About</h1>
 <p>Um app que simula um banco, usando o UserName no lugar do cartão e senha, tendo funções como:
     <ul>
       <li>Criar Conta</li>
@@ -13,7 +13,7 @@
    
 </p>
 <p>Além disso o projeto conta com o uso de Core Modules/ Modulos externo, uso do File System ('fs') para escrever arquivos em .JSON, Arquivo unico (index.js) que executa funções do sistema baseados em inputs do terminal e possui um sistema de validação em todas as operações. </p>
-<h2>Getting Started</h2>
+<h1 align="center">Getting Started</h1>
 <h2><li>Clone the repository</li></h2>
 <p>git clone https://github.com/GustavoMen/Bank.git</p>
 <h2><li>Install dependencies</li></h2>
@@ -40,6 +40,8 @@ A solução para resolver este problema de modo fácil é:
 1. Desinstale localmente a versão atual do Chalk usando npm uninstall chalk ;
 
 2. Instale localmente a versão anterior à 5 usando npm install chalk@4.1.2.<br>
+    
+    
   Ou:
 
 
