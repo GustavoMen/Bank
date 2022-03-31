@@ -5,7 +5,6 @@ const chalk = require('chalk')
 // modulos internos
 const fs = require('fs')
 const inquirer = require('inquirer');
-const { Console } = require('console');
 
 operation();
 
